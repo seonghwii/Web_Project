@@ -5,8 +5,9 @@ Web-Project
 
 ##### [서비스 개요]
 ###### 뉴스 사이트 개발     
-##### [개발 환경]
-###### Bracket, FileZilla, dothome         
+##### [개발 환경 및 개발 언어]
+###### Bracket, FileZilla, dothome  
+###### HTML5, CSS3  
 
 ##### **[구현된 기능]**    
 ###### ◻ 게시판
@@ -21,8 +22,9 @@ Web-Project
 
 ##### [서비스 개요]
 ###### 쇼핑몰사이트개발
-##### [개발 환경]
-###### JSP, Tomcat, Oracle
+##### [개발 환경 및 개발 언어]
+###### eclipse, Tomcat, Oracle
+###### JSP
 
 ##### **[구현된 기능]**    
 ###### ◻ 메인 화면
