@@ -6,8 +6,8 @@ Web-Project
 ##### [서비스 개요]
 ###### 뉴스 사이트 개발     
 ##### [개발 환경 및 개발 언어]
-###### Bracket, FileZilla, dothome  
-###### HTML5, CSS3  
+###### ◻ Bracket, FileZilla, dothome  
+###### ◻ HTML5, CSS3  
 
 ##### **[구현된 기능]**    
 ###### ◻ 게시판
@@ -23,8 +23,8 @@ Web-Project
 ##### [서비스 개요]
 ###### 쇼핑몰사이트개발
 ##### [개발 환경 및 개발 언어]
-###### eclipse, Tomcat, Oracle
-###### JSP
+###### ◻ eclipse, Tomcat, Oracle
+###### ◻ JSP
 
 ##### **[구현된 기능]**    
 ###### ◻ 메인 화면
@@ -32,5 +32,5 @@ Web-Project
 ###### ◻ 상품 목록 상세 정보 보여주기
 
 ##### 📑TODO
-###### 상품 삭제 기능
-###### DB 
+###### ◻ 상품 삭제 기능
+###### ◻ DB 
